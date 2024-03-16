@@ -2,7 +2,7 @@ from aiogram import types
 
 
 button1 = types.KeyboardButton(text='/start')
-button2 = types.KeyboardButton(text='Стоп')
+button2 = types.KeyboardButton(text='/prof')
 button3 = types.KeyboardButton(text='Инфо')
 button4 = types.KeyboardButton(text='Покажи лису')
 button5 = types.KeyboardButton(text='Закрыть')
