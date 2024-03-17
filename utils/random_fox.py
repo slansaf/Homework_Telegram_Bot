@@ -1,6 +1,5 @@
 import requests
 
-
 def fox():
     url = 'https://randomfox.ca/floof/'
     response = requests.get(url)
